@@ -1,2 +1,2 @@
 # Collaborative-Filtering
-Recommendation system technique: Collaborative Filtering
+Recommendation system technique
